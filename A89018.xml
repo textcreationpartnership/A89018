@@ -1,0 +1,566 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Spiritual vvisdom improved against temptation. In a sermon preached at Stepney Septemb. 16. 1660. And now made publick to obviate misrepresentation. By Matthew Meade.</title>
+            <author>Mead, Matthew, 1630?-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89018</idno>
+            <idno type="STC">Wing M1559</idno>
+            <idno type="STC">Thomason E1045_12</idno>
+            <idno type="STC">ESTC R202905</idno>
+            <idno type="EEBO-CITATION">99863037</idno>
+            <idno type="PROQUEST">99863037</idno>
+            <idno type="VID">115219</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115219)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 155:E1045[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Spiritual vvisdom improved against temptation. In a sermon preached at Stepney Septemb. 16. 1660. And now made publick to obviate misrepresentation. By Matthew Meade.</title>
+                  <author>Mead, Matthew, 1630?-1699.</author>
+               </titleStmt>
+               <extent>[8], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Parkhurst, at the Three Crowns in the lower end of Cheapside overagainst [sic] the Great Conduit,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115219:1" rendition="simple:additions"/>
+            <p>Spiritual Wiſdom Improved againſt TEMPTATION.</p>
+            <p>IN A SERMON PREACHED At <hi>Stepney Septemb.</hi> 16. 1660. And now made publick to obviate miſ<g ref="char:EOLhyphen"/>repreſentation.</p>
+            <p>By <hi>MATTHEW MEADE.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Joh. 18.23.</hi>
+               </bibl>
+               <p>If I have ſpoken evil, bear witneſs of the evil; but if I have ſpoken well, why ſmiteſt thou me?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 120.2.</hi>
+               </bibl>
+               <p>Deliver my ſoul, O Lord, from lying lips, and from a deceitful tongue.</p>
+            </q>
+            <p>Conſcia mens recti famae mendacia ridet.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Parkhurſt,</hi> at the Three Crowns in the lower end of <hi>Cheapſide</hi> over againſt the Great Conduit. 1660.</p>
+         </div>
+         <div type="preacher_to_congregation">
+            <pb facs="tcp:115219:2"/>
+            <pb facs="tcp:115219:2"/>
+            <head>To the Congregation at <hi>Stepney,</hi> that were the Auditors of this Sermon, All Covenant-mercies be multiplied through our Lord Jeſus Chriſt.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not put my ſelf to the charge of importuning your acceptance of this Sermon, being perſwaded that you whoſe ears were tied ſo faſt to the Preachers lips when it was deli<g ref="char:EOLhyphen"/>vered, will not diſdain to caſt your eyes upon it when it is tranſlated from the Pulpit to the Preſs. Had not an unſavoury breath (that common tell<g ref="char:EOLhyphen"/>tale of a foul ſtomack) blowed upon it to infection, it had layen ſtill with its elder brethren in the dark ſepulchre of oblivion. Nor yet could that have raiſed it again, had not your affectionate de<g ref="char:EOLhyphen"/>ſire rowled away the ſtone from the mouth of the ſepulchre. You (it ſeems) firſt diſcovered other men digging pits in the field of my reputation, to find the unknown treaſure of their own, and therefore thought the publiſhing this Sermon the beſt way to fill them up again; which I readily aſ<g ref="char:EOLhyphen"/>ſented to, that the world may ſee how eaſily in<g ref="char:EOLhyphen"/>nocence and plain dealing may be baptized into
+<pb facs="tcp:115219:3"/>the name of Faction and Sedition; nay that I preached Rebellion and Treaſon, is charged upon this Sermon, meerly becauſe I ſpoke of <hi>ſinful compliance with the ceremonies againſt conſcience;</hi> That I mentioned not either the King or his Go<g ref="char:EOLhyphen"/>vernment, neither at that time nor any other, ſave only to pray for him, as by the command of God I am bound to do, I have thouſands of witneſſes among you.</p>
+            <p>How little my Sermons have been ſtuft with State matters you can all teſtifie; <hi>I did determine to know nothing among you,</hi>
+               <note place="margin">1 Cor. 2.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>ſave Jeſus Chriſt and him crucified.</hi>
+            </p>
+            <p>That I have not in this Sermon ſpoken any thing <hi>of the nature of temptations,</hi> &amp;c. is not only becauſe the ſubject leads not directly to it, but becauſe I have heretofore in twenty Sermons from <hi>Rev.</hi> 3.10. handled that ſubject among you.</p>
+            <p>I had thought I might have continued with you long enough to have out-lived my deſign upon this Text;<note place="margin">Pſal. 31.15</note> but the wiſe God <hi>(in whoſe hand my times are)</hi> hath given me a <hi>quietus eſt,</hi> not only in reference to my place, but to my conſcience alſo.</p>
+            <p>The greateſt evil I ſhall wiſh to thoſe that ſuc<g ref="char:EOLhyphen"/>ceed me, ſhall be, that they may be as true to the intereſt of your precious ſouls, as I did always deſire,<note place="margin">2 Cor. 12.14.</note> and to my power endeavour to be: <hi>God is my record, that I ſought not yours but you.</hi> My care and prayer hath always been that you might re<g ref="char:EOLhyphen"/>ceive <hi>heavenly treaſure</hi> out of a <hi>poor earthen veſſel.</hi>
+            </p>
+            <p>I may ſay that no part of Gods <hi>Vineyard</hi> in the whole Nation hath had more choyce and emi<g ref="char:EOLhyphen"/>nent
+<pb facs="tcp:115219:3"/>labourers (my ſelf excepted) then this of <hi>Stepney</hi> for ſeveral years together;<note place="margin">
+                  <hi>Mr.</hi> Bur<g ref="char:EOLhyphen"/>roughs. <hi>M.</hi> Whitta<g ref="char:EOLhyphen"/>ber. <hi>M.</hi> Bridge, <hi>and till now</hi> Mr. Greenbil.</note> and in this re<g ref="char:EOLhyphen"/>gard I had a hard province to write after ſuch coples; but who looks for a mans head upon a childs ſhoulders? nor will God require the im<g ref="char:EOLhyphen"/>provement of <hi>ten talents</hi> where he gives but <hi>one.</hi>
+            </p>
+            <p>What good the Lord hath done by me, bleſs him for; ſet my name to no more then the weak<g ref="char:EOLhyphen"/>neſſes and infirmities that were diſcovered in my performances.</p>
+            <p>I have ground to hope that through the dew of Gods grace watering the ſeed of the word, ſome were converted, ſome convinced, ſome confirmed;<note place="margin">Rom. 10.1</note> and <hi>my hearts deſire and prayer to God</hi> for all, ſhall be <hi>that they may be ſaved.</hi>
+               <note place="margin">Heb. 13.10, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note>
+            </p>
+            <p>
+               <hi>Now the God of peace that brought again from the dead our Lord Jeſus that great ſhepherd of the ſheep, through the blood of the everlaſting co<g ref="char:EOLhyphen"/>venant make you perfect in every goodwork to do his will, working in you that which is well-pleaſing in his ſight, through Jeſus Chriſt, to whom be glo<g ref="char:EOLhyphen"/>ry for ever and ever.</hi> Amen.</p>
+            <closer>
+               <signed>MATTH. MEADE.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115219:4"/>
+            <head>TO THE Ingenuous Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon had never borrowed one hour of thy light, could prejudice and ill-will (which never ſpeaks well) have ſuffered it to have layn in dark<g ref="char:EOLhyphen"/>neſs, it was honeſtly born, but, unknown to the parent, it was brought under a Canonical Bap<g ref="char:EOLhyphen"/>tiſme, where it received <hi>the ſign of the Croſs,</hi> and ſo is made <hi>Crucianus</hi> though not <hi>Chriſtianus;</hi> had it but pleaded the holineſs of veſtures, the decency of a ceremony, no doubt though its ſubiect had not been ſo good, yet its cenſure had not been ſo bad.</p>
+            <p>The Author intended no more in the delivering of it to his hearers, then a help to the delivering of them from the power of the Tempter. When ſhould the Watchmen give warning, but when the enemy is ap<g ref="char:EOLhyphen"/>proaching? and when ſhould they call loudeſt to <hi>ſpi<g ref="char:EOLhyphen"/>ritual watchfulneſs,</hi> but when they are neareſt to the ſnares of <hi>ſpiritual wickedneſs?</hi> This was the
+<pb facs="tcp:115219:4"/>practice of our Lord Chriſt;<note place="margin">Mar. 6.41.</note> 
+               <hi>Watch and pray that ye enter not into temptation.</hi>
+            </p>
+            <p>What it was in the Sermon that could poſſibly offend, I cannot gueſs, unleſs the eighth head; and I won<g ref="char:EOLhyphen"/>der not much at their offence at that, ſince it ap<g ref="char:EOLhyphen"/>pears they are weak brethren. It is ſad that men ſhould walk not as wiſe but as fools, when the drift of the diſcourſe was to teach them to walk <hi>not as fools, but as wiſe;</hi> and that a Sermon of temptation, ſhould become a temptation; thus is Chriſt himſelf <hi>a ſtone of ſtumbling,</hi>
+               <note place="margin">1 Pet. 2.3.</note> whilſt they that ſo mannerly how their bodies at the name of Jeſus, cannot bend their conſciences to the truth of Jeſus; but herein is that Scripture fulfilled;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oh. 5.9.</note> 
+               <hi>For judgment I am come into this world, that they which ſee not might ſee, and that they which ſee might be made blind.</hi>
+            </p>
+            <p>There is ſomewhat ſpoken about ſinful compliance with ceremonies, and not much; if it had been more, it had not been much, coming from one that was born too late to remember them practiſed, and thinks he ſhould live too long to ſee them impoſed: If to ſpeak againſt <hi>Will-worſhip and ſuperſtition,</hi> be a fault, (for that is my crime) who can love the Lord Jeſus Chriſt in ſincerity, and at this time be inno<g ref="char:EOLhyphen"/>cent? I had rather be charged with frowardneſs be<g ref="char:EOLhyphen"/>fore men, then to be charged with unfaithfulneſs be<g ref="char:EOLhyphen"/>fore God.</p>
+            <p>Expect not <hi>Iliads</hi> in a nutſhel, much in this lit<g ref="char:EOLhyphen"/>tle, it being but conceived but the day before it was born: I reſolved as not to diminiſh one ſentence from it, to make it more excuſable; ſo not to add
+<pb facs="tcp:115219:5"/>one ſentence to it, to make it more commendable; only a little in the Introduction which I then omit<g ref="char:EOLhyphen"/>ted, and now, to make what follows ſenſe, have added.</p>
+            <p>It was <hi>ſeed ſown on good ground,</hi>
+               <note place="margin">Mat. 13.4. compared with the 9.</note> preached to an honeſt congregation at <hi>Stepney,</hi> though <hi>ſome fell by the way ſide,</hi> and that <hi>the wicked one pick<g ref="char:EOLhyphen"/>ed up:</hi> Thus as bold thieves will dare to pick pock<g ref="char:EOLhyphen"/>ets at the very bar of judgment, ſo Satan will be tempting and inſnaring, even when and where his temptations are diſcovering.</p>
+            <p>This ſermon hath a diſorderly publication, both in regard of divers Sermons that were Preached before it on the ſame text, and divers that are to follow after it, but as this finds acceptance, ſo I at preſent purpoſe to deal with the reſt, either to the cloſet, or to the houſe top.</p>
+            <p>If any thing in it prove uſeful to thy ſoul in the houn of temptation, let God have thy prayſes, who deſerves them; and let him have thy prayers who needs them, and who promiſes to be in return for them.</p>
+            <closer>
+               <signed>Thy Servant for Jeſus ſake, <hi>MAT. MEADE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <p>PAge 1. line 13. r. but a while. p. 10. l. 11. for ſhould r. would. p. 12. l, 5. dele though <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> die. p. ib. l. 8. add not. p. 15. l. 17. for our r. out.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:115219:5"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EPHES. 5.15, 16.</hi>
+                  </bibl>
+                  <p>See then that ye walk circumſpect<g ref="char:EOLhyphen"/>ly, not as fools but as wiſe: Re<g ref="char:EOLhyphen"/>deeming the time becauſe the days are evill.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>O be good at all times is a Chri<g ref="char:EOLhyphen"/>ſtians duty, but to be good in bad times is a Chriſtians glory; to be a <hi>Lot</hi> in <hi>Sodom,</hi> a <hi>Job</hi> in the land of <hi>
+                  <g ref="char:V">Ʋ</g>z,</hi> a Saint in <hi>Ne<g ref="char:EOLhyphen"/>ro</hi>'s houſe;<note place="margin">Phil. 2.15.</note> 
+               <hi>To be blameleſs and harmleſs, the Sons of God, with<g ref="char:EOLhyphen"/>out rebuke, in the midſt of a crooked and perverſe nation,</hi> this is the credit of a Chriſtian pro<g ref="char:EOLhyphen"/>feſſion. Bad times and bad manners too often corrupt good men. <hi>Peter</hi> was very zealous for Chriſt among the Diſciples, but when he had been a but while in the <hi>High Prieſts hall,</hi> how doth he then deny Chriſt!</p>
+            <p>
+               <hi>Joſeph</hi> had been but a while at Court, and he had learned the Court-oath, to ſwear <hi>by the life of Pharoah:</hi> The <hi>Iſraelites</hi> were no ſooner
+<pb n="2" facs="tcp:115219:6"/>mingled with the Heathen, but they forthwith bow and ſacrifice to their <hi>gods: They were mingled among the Heathen, and learned their works, and they ſerved their Idols,</hi> pſal. 106.35.36.</p>
+            <q>
+               <l>— Grex totus in agris</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nius ſcabie cadit,<note place="margin">Iuvenal.</note> &amp; porrigine porci.</l>
+            </q>
+            <p>The Apoſtle Engliſhes it, 1 <hi>Cor.</hi> 15.33. <hi>Evill communications corrupt good manners.</hi> Sin is of a very leavening nature, <hi>A little leaven leaveneth the whole lump,</hi>
+               <note place="margin">Deut. 7.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Gal. 5.9. And therefore it is that God commands <hi>Iſrael</hi> at their entring into <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> utterly to deſtroy all the Nations, to make no covenant, nor to marry with them; why? leſt they ſhould learn their manners and their cuſtoms.</p>
+            <p>And this was the reaſon of this Apoſtolical <hi>Suada,</hi> or Exhortation in the Text to the Church of <hi>Epheſus,</hi> to walk circumſpectly.</p>
+            <p>This <hi>Epheſus</hi> was the Metropolis and cheif City in <hi>Aſia minor:</hi> A City much given to ſuper<g ref="char:EOLhyphen"/>ſtition and Idolatry;<note place="margin">Acts 15.27.</note> there was the Temple of the great Goddeſs <hi>Diana:</hi> A City where the preaching and profeſſing the Goſpel was much perſecuted;<note place="margin">1 Cor. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.32.</note> and therefore the Apoſtle <hi>Paul</hi> ſaith, <hi>He fought with beaſts at Epheſus.</hi>
+            </p>
+            <p>Now what with ſuperſtition among them, and perſecution upon them, the days were very evil, and hence he gives them this counſel in the Text; <hi>See then that ye walk circumſpectly, not as fools but as wiſe; redeeming the time becauſe the days are evil.</hi>
+            </p>
+            <pb n="3" facs="tcp:115219:6"/>
+            <p>The words have in them four parts.</p>
+            <list>
+               <item>Firſt, A great duty enjoyned, <hi>See that ye walk circumſpectly.</hi>
+               </item>
+               <item>Secondly, The injunction explained, <hi>Not as fools, but as wiſe.</hi>
+               </item>
+               <item>Thirdly, The explanation amplified, <hi>Redeeming the time.</hi>
+               </item>
+               <item>Fourthly, The reaſon of all urged, <hi>Becauſe the days are evill.</hi>
+               </item>
+            </list>
+            <p>The firſt general, <hi>viz.</hi> the injunction of a du<g ref="char:EOLhyphen"/>ty, we have already ſpoken to, and are come to the ſecond General, <hi>viz.</hi>
+            </p>
+            <p>The explanation of the injunction, which ſets out to us the manner of this circumſpect wall<g ref="char:EOLhyphen"/>ing, and that both negatively and affirma<g ref="char:EOLhyphen"/>tively.</p>
+            <l>Negatively, <hi>not as fools.</hi>
+            </l>
+            <l>Affirmatively, <hi>but as wiſe.</hi>
+            </l>
+            <p>This negative caution which the Apoſtle gives Chriſtians, not to walk as fools, doth imply in it this affirmative concluſion.</p>
+            <p>
+               <hi>That there are many Profeſſors of Religion are fools in their profeſſion.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>
+               </label>
+            </p>
+            <p>This I have ſpoken too at large; and am now upon the explanation of the injunction, <hi>as wiſe;</hi> from whence we laid down this aſſertion,</p>
+            <p>
+               <hi>That it is the Chriſtians duty to walk wiſely.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>
+               </label>
+            </p>
+            <p>I have explained the term, what it is to walk wiſely.</p>
+            <p>I have confirmed the point, that it is the Chri<g ref="char:EOLhyphen"/>ſtians duty.</p>
+            <pb n="4" facs="tcp:115219:7"/>
+            <p>I have given you the properties of this ſpiri<g ref="char:EOLhyphen"/>tual wiſdom.</p>
+            <p>The fourth thing is to ſhew you when this ſpi<g ref="char:EOLhyphen"/>ritual wiſdom is in ſeaſon.</p>
+            <p>
+               <hi>Anſw.</hi> At all times, ſpiritual wiſdom is never out of ſeaſon;<note place="margin">Eccleſ. 3.1.</note> 
+               <hi>Solomon</hi> ſays, <hi>There is a ſeaſon to every thing, and a time to every purpoſe under heaven.</hi>
+            </p>
+            <p>Yet there are two things he allots no time for, for ſin and for holineſs: He doth not ſay There is a time to ſin, becauſe there is no time for that; he doth not ſay There is a time to ſerve God, and be holy, and wiſe to ſalvation, becauſe all <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me is for that. Holineſs and ſpiritual wiſdom is always in ſeaſon.</p>
+            <p>But yet there are four peculiar ſeaſons of this walking wiſely.</p>
+            <list>
+               <item>In times of outward proſperity.</item>
+               <item>In times of outward trouble and affliction.</item>
+               <item>In times of temptation.</item>
+               <item>In times of ſpiritual deſertion.</item>
+            </list>
+            <p>Where the wiſdom of walking in proſpe<g ref="char:EOLhyphen"/>rity lieth, I have ſhewed you already in five things. Where the wiſdom of walking in af<g ref="char:EOLhyphen"/>fliction lieth, I have ſhewed you in Twelve things.</p>
+            <p>Now in the third place, I ſhall ſhew you that it is the Chriſtians duty to walk wiſely in times of temptation. And then ſhew you where<g ref="char:EOLhyphen"/>in the wiſdom of walking in temptation lieth.</p>
+            <p>
+               <hi>That it is the Chriſtians duty to walk wiſely in time of temptation:</hi> Chriſtian wiſdom is never
+<pb n="5" facs="tcp:115219:7"/>more neceſſary then when we are aſſaulted by that cunning adverſary.</p>
+            <p>To clear this, I ſhall lay down ſeven gradu<g ref="char:EOLhyphen"/>al concluſions.</p>
+            <p n="1">1. <hi>That the Saints of God are very incident to temptations from Satan;</hi> theſe are the Butts the Devil ſhoots the arrows of his rage againſt; the pyrate doth not aſſault the empty ſhip, nor the theif break open the poor mans cottage; but where the prize is, there the onſet is.</p>
+            <p>Grace will keep us from ſinning in temptati<g ref="char:EOLhyphen"/>on, but it will not keep us from ſufferings un<g ref="char:EOLhyphen"/>der temptation. Chriſt was made like to us that he might be tempted, and we are tempted that we may be made like to Chriſt.</p>
+            <p>The more a man is renewed and ſanctified, the more is he tryed and buffetted; the more God hath done for him, the more will Satan do againſt him; The more God encreaſeth his grace, the more Satan diſturbeth his peace.</p>
+            <p>Nay immediately upon the greateſt diſcove<g ref="char:EOLhyphen"/>ry from God, the Saints have the ſoareſt bat<g ref="char:EOLhyphen"/>teries from Satan; When God diſcovers moſt of his love to us, Satan will then diſcover moſt of his rage againſt ns; if Chriſt doth but take us into <hi>the banquetting-houſe,</hi>
+               <note place="margin">Cant. 2.4.</note> Satan will preſent<g ref="char:EOLhyphen"/>ly lead us into the wilderneſs.</p>
+            <p>
+               <hi>Paul</hi> was no ſooner come down out of the higheſt heaven, but he is ſtraight way ſet upon by an enemy from the loweſt hell. He had no ſooner received <hi>abundance of revelations</hi> to com<g ref="char:EOLhyphen"/>fort him,<note place="margin">Cor. 12.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 7.</note> but the next news is a <hi>Meſſenger of
+<pb n="6" facs="tcp:115219:8"/>Satan to buffet him.</hi> After that glorious reve<g ref="char:EOLhyphen"/>lation he falleth into a grievous temptation, inſo<g ref="char:EOLhyphen"/>much that the joy of his ſpirit was much abated by <hi>the thorn in the fleſh.</hi>
+            </p>
+            <p>Thus it was with the Lord Chriſt himſelf; he no ſooner heareth the voyce of God from Hea<g ref="char:EOLhyphen"/>ven, ſaying <hi>This is my belóved ſon,</hi> but imme<g ref="char:EOLhyphen"/>diately the ſpirit from hell cometh and queſti<g ref="char:EOLhyphen"/>oneth his Sonſhip;<note place="margin">Matth. 3. 16. c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mp. with Mat. 401.</note> he was no ſooner gone up out of the water where he was baptized, but he is forthwith <hi>lead up into the wilderneſs to be tempted.</hi>
+            </p>
+            <p>
+               <hi>And if he did thus to the green tree, what will he not do to the dry?</hi> So that it is clear, that the Saints of God are very incident to temptations from Satan.</p>
+            <p>Secondly,<note place="margin">Pſ. 119.117. and 17.5</note> 
+               <hi>Man is very weak at beſt to with<g ref="char:EOLhyphen"/>ſtand temptation when it is leaſt.</hi> So long as God holdeth us up we cannot fall; but if God giveth us up, we cannot ſtand. It is mans weakneſs to preſume upon his own ſtrength, when as his beſt ſtrength is but weakneſs.</p>
+            <p>
+               <hi>Peter</hi> promiſes not to leave Chriſt; but when the temptation cometh then he leaveth his pro<g ref="char:EOLhyphen"/>miſe. To perſiſt in duties of ſanctification, and to reſiſt in caſes of temptation, both theſe are mans work to do, but we muſt have Gods ſtrength to do them. How vain is man to think himſelf any thing, when <hi>without Chriſt he can do nothing!</hi>
+               <note place="margin">Ioh. 15.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>Thirdly, <hi>We have in our natures much for temptation to work upon:</hi> Our corrupt hearts are
+<pb n="7" facs="tcp:115219:8"/>like tinder, apt to take when the Devil ſtriketh fire. He that promiſeth himſelf that the frame of his heart will be the ſame under a temptation as it was before, may as well promiſe himſelf that though he fall into the water, he ſhall be dry, becauſe whilſt he was upon the ſhoar he was not wet.</p>
+            <p>It is not with Chriſtians as it was with Chriſt; when Satan came to tempt him, he found no<g ref="char:EOLhyphen"/>thing in him, no carnal principles, no ſecret luſt, no corrupt matter to faſten his temptations up<g ref="char:EOLhyphen"/>on. <hi>The Prince of this world cometh, and hath no<g ref="char:EOLhyphen"/>thing in me,</hi> Joh. 14.30.</p>
+            <p>But it is otherwiſe with Chriſtians: Satan hath for the compaſſing his ends a ſure party in our own boſom: When Satan beleagureth us with<g ref="char:EOLhyphen"/>out, ſin is ready to betray us within. <hi>A mans enemies are they of his own houſe.</hi>
+            </p>
+            <p>Chriſt had onely the ſuffering part of tempta<g ref="char:EOLhyphen"/>tion when he entred into it, but we have alſo the finning part of it. Though when Satan came to Chriſt, he found nothing in him; yet when he comes to Chriſtians, he findes much in them.</p>
+            <p>Though Beleevers are not in ſin, yet there is ſin in Beleevers; much luſt remaineth in the Beſt. Where grace is, it deſtroyeth ſins power, but it doth not deſtroy its preſence. Though we are ſanctified in every part,<note place="margin">Cor. 13.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> yet <hi>we are ſanctified but in part.</hi> Though <hi>Regeneration</hi> taketh much ſin out of us, yet <hi>Temptation</hi> find<g ref="char:EOLhyphen"/>eth much ſin ſtill in us. There is much for tempta<g ref="char:EOLhyphen"/>tion
+<pb n="8" facs="tcp:115219:9"/>to work upon, and therefore we have need to walk wiſely in temptation.</p>
+            <p>Fourthly, <hi>Satan with great cunning ſuiteth his temptations to mans nature and diſpoſition;</hi> as he hath great malice, as being a Devil, ſo he hath great knowledge, as being an <hi>Angel;</hi> and as his knowledge is great by intelligence, ſo it is heightned by experience. For he hath been trading with ſouls well nigh Six thouſand years. He doth not love to ſail againſt the wind, nor row againſt the tide; he ſuits the temptation without us to the luſts and corruption within us, and ſo hath winde and tide with him. If he meet vvith <hi>Peter,</hi> he dealeth vvith his carnal fear, vvith <hi>Davids</hi> luſt, vvith <hi>Jonahs</hi> paſſion, vvith <hi>Diotrephes</hi> his ambition.</p>
+            <p>Oh hovv vviſely doth it behove us to vvalk in temptations!</p>
+            <p>Fifthly, <hi>As all Saints are tempted to commit ſin, ſo many commit the ſin to which they are tempted:</hi> As Satan is alvvays very treacherous, ſo he is often very proſperous. He cannot make us <hi>fail</hi> finally, but yet he maketh us fall free-quently: He doth often <hi>bruiſe our heel,</hi> though he cannot <hi>break our head.</hi> He blovveth the coals of luſt in <hi>David,</hi> and hovv quickly doth it flame in Adultery and Murder! Though Satan can<g ref="char:EOLhyphen"/>not break our backs, yet he may break our bones, and ſend us halting to our graves; and therefore vve had need vvalk vviſely in tempta<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Sixthly, <hi>A man may withſtand a temptation at
+<pb n="9" facs="tcp:115219:9"/>one-time, and yet fall under the ſame temptation at another:</hi> For the influences of grace may be more at one time, and leſs at another; a mans own heart may be in a watchful frame at one time, and in a ſleepy, carnal frame at an<g ref="char:EOLhyphen"/>other; and Satan then cometh ſooneſt when the heart is ſecureſt.<note place="margin">Mark. 13.37.</note> It is the beleevers duty to watch always, but the beleever is not always in that duty.</p>
+            <p>Now if Satan cometh once and findeth him watching, he will go and come again when he may find him ſleeping.</p>
+            <p>Satan is not for ever conquered, becauſe he is once reſiſted; What he faileth in at one time, he attempteth at another. When he left Chriſt, it was with an intent to come a<g ref="char:EOLhyphen"/>gain, <hi>Luk.</hi> 4.13. <hi>when the devil had ended all the temptation, he departed from him,</hi> for how long? <hi>for a ſeaſon;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, untill another opportu<g ref="char:EOLhyphen"/>nity; for he ſet upon him again, <hi>Joh.</hi> 14.30.</p>
+            <p>We ſhall never be out of Satans reach, till we come into the boſom of Jeſus Chriſt.</p>
+            <p>As Chriſt ſometimes leaveth us, and then re<g ref="char:EOLhyphen"/>turneth again; ſo doth Satan. <hi>Chriſt</hi> leaveth us to make us act grace, and walk more ſtrict<g ref="char:EOLhyphen"/>ly; <hi>Satan</hi> leaveth us to make us lay aſide grace and walk more remiſly.</p>
+            <p>When <hi>Chriſt</hi> departs, we are apt to be caſt down, and to ſay We ſhall never ſee comfort; When <hi>Satan</hi> departs, we are apt to be lifted up and to ſay, We ſhall never ſee trouble. When as both withdraw, to return again; <hi>Chriſt</hi> with<g ref="char:EOLhyphen"/>draws
+<pb n="10" facs="tcp:115219:10"/>that he may return with the greater mer<g ref="char:EOLhyphen"/>cy, and Satan withdraws that he may return with the greater fury.</p>
+            <p n="7">7. <hi>In every temptation the ſoul runs a great ha<g ref="char:EOLhyphen"/>zard of eternal deſtruction:</hi> The deſign of the Tempter is the ruine of the Beleever: As the deſign of Chriſt in regeneration is to ſave the ſoul: ſo the deſign of Satan in temptation is to deſtroy it. Our bleſſed Redeemer would fane make us as happy as himſelf in heaven; and this curſed Tempter ſhould fain make us as mi<g ref="char:EOLhyphen"/>ſerable as himſelf in hell. <hi>He that kept not his own ſtation,</hi>
+               <note place="margin">Iude v. 6.</note> grudgeth us ours; it is matter of his envy that we ſhould poſſeſs that <hi>habitation</hi> which he ſo ſinfully left; and therefore his <hi>work on earth</hi> is to hinder vs in our <hi>working for heaven.</hi> He envieth us everlaſting <hi>crowns of Righteouſneſs,</hi> when he himſelf lieth <hi>in everlaſt<g ref="char:EOLhyphen"/>ing chains of darkneſs;</hi> and therefore he would fane defile us here, that ſo he might deſtroy us for ever.</p>
+            <p>Surely therefore <hi>if at all times a Chriſtian ſhould walk wiſely, then in time of temptation more oſpecially.</hi>
+            </p>
+            <p>Query, <hi>But you will ſay, Where lieth the wiſ<g ref="char:EOLhyphen"/>dom of walking in a time of temptation? Suppoſe I am much exerciſed with temptations of ſeveral kinds, wherein doth the wiſdom of walking conſiſt at ſuch a time?</hi>
+            </p>
+            <p>I ſhall anſwer the Queſtion in thirteen par<g ref="char:EOLhyphen"/>ticulars.</p>
+            <p n="1">1. <hi>In ſubmitting to the will of God in tempta<g ref="char:EOLhyphen"/>tion.</hi>
+               <pb n="11" facs="tcp:115219:10"/>There is no tempration befalleth us but it is according to the will of God: God willeth our trials, that he may try our <hi>wills,</hi> whether they will <hi>how to his will or no:</hi> A Chriſtian ſhould ſay the <hi>will of the Lord be done,</hi>
+               <note place="margin">Act. 21.14.</note> though he be undone; much more he ſhould be contented when it is the will of God he ſhould be tried.</p>
+            <p>God ordereth, and diſpoſeth, and timeth all our temptations: Satan cannot do what he pleaſ<g ref="char:EOLhyphen"/>eth, but what God pleaſeth.</p>
+            <p>He had not power to touch <hi>Job</hi> till God gave him leave;<note place="margin">Iob. 1.12.</note> and when he had power he could go no further then the wiſe God gave him order. In temptation it is not what Satan will, but what God will.</p>
+            <p>Yet how frowardly do many of the children of God carry themſelves in temptation, ſpeak<g ref="char:EOLhyphen"/>ing hardly of God, as if he had forſook them, becauſe he ſuffers Satan to buffet them?</p>
+            <p>Now then, if I ſubmit to the will of God in temptation, and ſay, Although I could rejoyce to be rid of this temptation, yet it is not fit I ſhould chuſe my condition, then I walk wiſely in temptation.</p>
+            <p n="2">2. <hi>In diſclaiming ſelf-confidence, and not truſt<g ref="char:EOLhyphen"/>ing to our own ſtrength:</hi> Self-confidence uſual<g ref="char:EOLhyphen"/>ly meeteth with ſome ſad miſcarriage for its recompence. Satan deſires no greater advan<g ref="char:EOLhyphen"/>tage againſt us, then to find us in our own ſtrength when he cometh to aſſault us. <hi>Solomon</hi> ſaith, <hi>He that truſts in his own heart, is a fool;</hi> Why a fool?<note place="margin">Pro. 28.26</note> becauſe he is ſure to be de<g ref="char:EOLhyphen"/>ceived.
+<pb n="10" facs="tcp:115219:11"/>So fooliſh was <hi>Peter; Though all men forſake thee,</hi>
+               <note place="margin">Mat. 26.33.</note> 
+               <hi>yet will not I.</hi> What? deny my Maſter the Son of God, my Redeemer! What deny the bleſſed Jeſus? <hi>Thou art Chriſt the Son of the living God;</hi> and therefore though I die, <hi>though I ſhould die with thee,</hi>
+               <note place="margin">&amp; 16.16.</note> 
+               <hi>yet will I not deny thee;</hi> and yet who forſook Chriſt ſo ſadly as <hi>Peter?</hi>
+               <note place="margin">&amp; 26.35.</note> he doth only forſake him, but forſwear him.</p>
+            <p>The ſtrength of a Beleever lieth not in him<g ref="char:EOLhyphen"/>ſelf but in his Saviour; God can overcome Sa<g ref="char:EOLhyphen"/>tan without our hands, but we cannot ſo much as defend our ſelves without his arm: He can do all things without us, we can do nothing with<g ref="char:EOLhyphen"/>out him.<note place="margin">18 am. 15.29.</note> 
+               <hi>He is the ſtrength of Iſrael.</hi>
+            </p>
+            <p>And therefore when the Apoſtle layeth down directions for the withſtanding temptations, he giveth this as his firſt counſel, <hi>Be strong in the Lord,</hi>
+               <note place="margin">Eph. 6.10.</note> 
+               <hi>and in the power of his might;</hi> Gods power is greater to help us, then Satans is to hurt us: As without Gods leave he cannot tempt us; ſo when he doth tempt, God vvill not leave us; vvhen Satan doth his vvorſt to throvv us dovvn, God vvill do his beſt to make us ſtand: <hi>As we are kept by the power of God to ſalvation;</hi>
+               <note place="margin">1 Pet. 1.5.</note> ſo vve are kept by the povver of God from temptation.</p>
+            <p>Novv then, if in temptation I diſclaim ſelf-confidence, and reſt upon divine omnipotence, if I ceaſe from my own ſtrength, and rely upon the ſtrength of God, then do I walk wiſely in temptation.</p>
+            <p n="3">3. <hi>In diſtinguiſhing between temptations from God and Satan.</hi> Sometimes God tempteth,
+<pb n="13" facs="tcp:115219:11"/>and ſometimes Satan; God tempteth for good ends, Satan for evil ends. God tempteth to try grace, <hi>Deut.</hi> 13.3. <hi>The Lord your God pro<g ref="char:EOLhyphen"/>veth you, to know whether ye love the Lord your God with all your heart.</hi>
+            </p>
+            <p>Thus it is ſaid, <hi>God tempted Abraham,</hi> Gen. 22.1. It was to try his faith and obedience.</p>
+            <p>Thus he tempted <hi>Hezekiah,</hi> 2 Chron. 32.31. <hi>God left him to try him, that he might know all that was in his heart.</hi>
+            </p>
+            <p>But Satan tempteth to deſtroy grace, not to try it.</p>
+            <p>As the deſign of temptation is the ruine of grace, ſo God is ſaid <hi>to tempt no man.</hi>
+               <note place="margin">Ian. 1.13.</note>
+            </p>
+            <p>But as the deſign of temptation is the tryal of grace, ſo God tempteth every man.<note place="margin">1 Pet. 1.97</note>
+            </p>
+            <p>God tempteth for probation, Satan for repro<g ref="char:EOLhyphen"/>bation; God when he tempteth, cometh with <hi>his fan,</hi> to fan out the chaff and the rubbiſh,<note place="margin">Mat. 1.12.</note> but to keep in and preſerve the wheat; but Satan when he tempteth, cometh with his <hi>ſieve,</hi>
+               <note place="margin">Luc. 22.31</note> to let out the wheat, but to keep in the rubbiſh: The <hi>fan</hi> caſteth out the worſt and keepeth in the beſt; but the <hi>ſieve</hi> keepeth in the worſt, and caſteth out the beſt. So God by his temptations purgeth corruption out of us, and nouriſheth grace in us: But Satan by his tempta<g ref="char:EOLhyphen"/>tions laboureth to confirm ſin, and weaken grace.</p>
+            <p>God tempteth becauſe he would have us ſtand, Satan tempteth to make us fall: God tempteth to purge out ſin, that when Satan tempteth he may not take advantage againſtus by our ſin;
+<pb n="14" facs="tcp:115219:12"/>God tempteth to cleanſe corruption out of us,<note place="margin">Ioh. 14.10</note> that ſo when Satan cometh he may finde nothing in us; God tempteth us becauſe he loveth us; Satan tempteth becauſe he hateth us: God tempteth to make us like Chriſt; Satan tempteth to make us leave Chriſt.</p>
+            <p>Now then, if I diſtinguiſh aright between temptations from God, and temptations from Satan; between thoſe that are only to try grace, and thoſe that are to deſtroy grace; that I may improve the former, and reſiſt the latter, then do I walk wiſely in temptation.</p>
+            <p n="4">4. <hi>It is wiſdom not to bring our own reaſon to the temptation, but to bring the temptation to the blood of Chriſt.</hi> Vain man thinketh in the ſtrength of his own reaſon to out-argue the Tempter; this is to ſhoot with Satan in his own bow. To ar<g ref="char:EOLhyphen"/>gue with him is as the proverb hath it, <hi>To light a candle to the Devil.</hi>
+            </p>
+            <p>Yet how ready are we to parly with him! when he knocks at the door, how apt are we to look out at the window!</p>
+            <p>
+               <hi>Eve</hi> ventureth to treat with him about the for<g ref="char:EOLhyphen"/>bidden fruit, and from treating ſhe falls to eat<g ref="char:EOLhyphen"/>ing,<note place="margin">Pro. 6.27.28.</note> to the ruine of a <hi>whole world at once. Can a man take fire in his boſom, and his cloaths not be burnt? Can he go upon hot coals and his feet not be burned?</hi>
+            </p>
+            <p>Reaſon is but a carnal weapon, but our ene<g ref="char:EOLhyphen"/>my is ſpiritual;<note place="margin">Eph 6.12</note> and therefore <hi>the weapons of our warfare muſt not be carnal;</hi>
+               <note place="margin">2 Cor. 10.4</note> he muſt be ſpiritual<g ref="char:EOLhyphen"/>ly ſubdued: The blood of Chriſt can quench
+<pb n="15" facs="tcp:115219:12"/>temptation, Reaſon cannot. Satan ſaith to car<g ref="char:EOLhyphen"/>nal Reaſon, as the evil ſpirit did to <hi>Sceva's</hi> ſons, <hi>Jeſus I know, and Paul I know, but who are you? and it leaped upon them and overcame them.</hi>
+               <note place="margin">Act. 19.14; 15, 16.</note>
+            </p>
+            <p>Bring Reaſon to a temptation, and it bear<g ref="char:EOLhyphen"/>eth down that; but bring a temptation to the blood of Chriſt, and it cannot ſtand before that.</p>
+            <p>Now then if I oppoſe not temptations by my own Reaſon, but bring them to the blood of Chriſt to extinguiſh them, then I walk wiſely in temptation.</p>
+            <p n="5">5. <hi>It is wiſdom to lay in proviſion in time of temptation;</hi> To ſtore the heart with ſomewhat that may keep temptation out. There is Go<g ref="char:EOLhyphen"/>ſpel proviſion, which if laid up in the heart, will keep our all temptation from entring to hurt;<note place="margin">Mat. 26.<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> and that is <hi>the ſence of the love of God in Chriſt.</hi> Though we be under temptation, yet this will keep us from entring into temptation.</p>
+            <p>senſe of the love of God in Chriſt doth con<g ref="char:EOLhyphen"/>ſtrain grace, and reſtrain ſin; it ſtrengthens the new man, and weakens the old; and there tempta<g ref="char:EOLhyphen"/>tion never proſpereth, where grace flouriſheth, and ſin withereth.</p>
+            <p>Now then, If I lay in ſuitable proviſion in time of temptation, that may be a help to pre<g ref="char:EOLhyphen"/>ſerve me when Satan doth aſſault me, then I walk wiſely in temptation.</p>
+            <p n="6">6. <hi>The wiſdom of walking in temptation lieth in fighting Satan with Scripture weapons.</hi> There is not a temptation of Satan which the word doth not arm you againſt.</p>
+            <pb n="16" facs="tcp:115219:13"/>
+            <p>It is ſtoried that a certain Jew ſhould have poy<g ref="char:EOLhyphen"/>ſoned <hi>Luther,</hi> but was prevented by his picture which was ſent to <hi>Luther</hi> with a warning from a faithful friend, that he ſhould take heed of ſuch a man when he ſaw him; by which means <hi>Luther</hi> knew the murderer, and prevented the deſign.</p>
+            <p>The Scripture doth not only warn us, and ſhew us the face of thoſe luſts, which Satan worketh by to deſtroy us, but it armeth us againſt them: Satan is never ſo worſted as when Scripture wea<g ref="char:EOLhyphen"/>pons are uſed: Thoſe ſhafts ſtrike Satan to the quick that are taken out of Gods quiver.<note place="margin">1 Sam. 17.40, 9.</note> 
+               <hi>David</hi> with ſtones out of the Brook ſlays <hi>Goliah,</hi> that enemy of <hi>Iſrael;</hi> ſo with ſtones out of the Brook of Scripture may we conquer this enemy of God and ſouls.</p>
+            <p>When the Lord Chriſt was forty days together combating with Satan,<note place="margin">Luk. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> he uſeth onely Scripture arguments.</p>
+            <p>When he tempts him to turn ſtones into bread, Chriſt anſwers him with Scripture, <hi>It is written, Man liveth not by bread alone, but by every word that proceedeth out of the mouth of God,</hi> Mat. 4.4.</p>
+            <p>When he tempts him to caſt himſelf down from the pinacle of the Temple, Chriſt urgeth Scripture again, <hi>It is written, Thon ſhalt not tempt the Lord thy God,</hi> verſ. 7.</p>
+            <p>And ſo when he tempteth him to worſhip him, ſtill Chriſt oppoſeth Scripture to the Tempt<g ref="char:EOLhyphen"/>er. <hi>It is written, Thou ſhalt worſhip the Lord thy God, and him only ſhalt thou ſerve,</hi> verſ. 10.</p>
+            <pb n="17" facs="tcp:115219:13"/>
+            <p>Thus the Lord Chriſt fetcheth arguments out of Scripture, and with theſe puts to flight the Tempter.</p>
+            <p>The word of God hath a power in it to quaſh all Satans temptations; do but oppoſe his aſ<g ref="char:EOLhyphen"/>ſaults with Scripture commands, and he will never be able to ſtand. And therefore the A<g ref="char:EOLhyphen"/>poſtle giveth good advice in this very caſe of op<g ref="char:EOLhyphen"/>poſing Satan, <hi>Epheſ.</hi> 6.17. <hi>Take the ſword of the Spirit, which is the word of God.</hi>
+            </p>
+            <p>So that if in temptation I oppoſe Satan with scripture weapons, if I urge scripture injuncti<g ref="char:EOLhyphen"/>ons againſt the ſerpents ſuggeſtions, and ſo ſet Gods wiſdom againſt Satans cunning, then I walk wiſely in temptation.</p>
+            <p n="7">7. <hi>It is wiſdom to look upon temptation as bro<g ref="char:EOLhyphen"/>ken and overcome in Chriſt, and to conſider Sa<g ref="char:EOLhyphen"/>tan as a conquered enemy:</hi> This will not make us the leſs careful, but the leſs fearful: All the temptations that befal the people of God, are already overcome in Chriſt; <hi>For this purpoſe the Son of God was manifeſted, that he might de<g ref="char:EOLhyphen"/>ſtroy the works of the Devil,</hi> 1 Joh. 3.5.</p>
+            <p>The Lord Chriſt was a common perſon, and that not only in his death, but in his life; Chriſt was not born for himſelf, but for us;<note place="margin">Iſa. 9.6.</note> 
+               <hi>To us a child is born, to us a ſon is given.</hi>
+               <note place="margin">Rom. 5.19. Gal. 3.13.</note> He did not obey for himſelf but for us; <hi>By the obedience of one ſhall many be made righteous.</hi> He did not dye and ſuffer for himſelf but for us; <hi>He was made a curſe for us.</hi>
+            </p>
+            <p>Whatever evil Chriſt did undergo, he un<g ref="char:EOLhyphen"/>derwent
+<pb n="18" facs="tcp:115219:14"/>it for us; he was tempted for us, he broke Satans head for us. As when <hi>Adam</hi> was tempted, he being a common perſon, we were all tempted in him, and he falling in the temptation, we fell in him. <hi>Omnes er amus ille unus homo.</hi> So when the Lord Chriſt lived in the world, and was tempted by Satan, we were tempted in him, and when he conquered, we conquered in him; <hi>ſo that we are more then conquerors through him that loved us,</hi> Rom. 8.37. Satan now through the victory of the croſs is a conquered enemy: He fights againſt the members of Chriſt with broken weapons; for the Captain of our ſalvation <hi>hath ſpoiled Principalities and powers.</hi>
+               <note place="margin">Col 2.15.</note>
+            </p>
+            <p>So that if I look upon temptation as broken, and Satans power as ſpoiled and overcome by the death and croſs of Chriſt, then I walk wiſely in temptation.</p>
+            <p n="8">8. <hi>If the temptation travel with a dilemma or difficulty on each hand, and the Chriſtian chuſeth that part of the dilemma that is for the glory of God, though grievous to the fleſh, rather then that part that is profitable and gratifying to the fleſh, but tending to the diſhonor of God, then he walks wiſely.</hi>
+            </p>
+            <p>Sometimes the people of God are brought to ſuch ſtraights by temptation, that either they muſt ſin much to avoid ſuffering, or ſuffer much to avoid ſinning: Their own carnal advantage and outward ſafety lieth through ſin, but the glory of God lieth through ſuffering.</p>
+            <p>Such a dilemma was that which the <hi>three chil<g ref="char:EOLhyphen"/>dren</hi>
+               <pb n="19" facs="tcp:115219:14"/>were brought into by their temptation, <hi>Dan.</hi> 3.11. they muſt either turn or burn; either they muſt bow to the image the King had ſet up, or burn in the furnace he had cauſed to be heat.</p>
+            <p>If they worſhipped the Image, they ſhould obey the Kings command, but then they broke the command of God; if they did not worſhip, they ſhould provoke the Kings diſpleaſure, but then they kept in Gods favour: If they did wor<g ref="char:EOLhyphen"/>ſhip, they diſhonoured the God of <hi>Sion;</hi> if they did not worſhip they provoked the King of <hi>Ba<g ref="char:EOLhyphen"/>bylon.</hi>
+            </p>
+            <p>Here is the dilemma; now ſee how wiſely they chuſe, verſ. 17, 18. <hi>If it be ſo, our God whom we ſerve is able to deliver us from the fiery fur<g ref="char:EOLhyphen"/>nace, and he will deliver us out of thine hand, O King: But if not, be it known unto thee, O King, we will not ſerve thy gods, nor worſhip the Image which thou haſt ſet up.</hi>
+            </p>
+            <p>What a choyce ſpirit is this? not found in every houſe where the profeſſion of Religion is hanged out at the door. How many in this hour of temptation are caught in this enſnaring trial? what ſay ſome? Come let us rather conform to the ceremonies, then loſe our liberties; rather let us bow at the name of Jeſus, then loſe all for the ſake of Jeſus; it is better to baptize with the croſs, then to bear the croſs; and to wear a Surplice, then to pinch our carkaſs.</p>
+            <p>Thus many (it is to be feared) deſtroy their conſciences, to keep their places; and conform
+<pb n="20" facs="tcp:115219:15"/>againſt their judgements, to preſerve their pro<g ref="char:EOLhyphen"/>fits; this is as if a man to ſave his hat ſhould loſe his head, or as if a man ſhould ſink the ſhip to avoid the ſtorm. Alas poor ſouls, how are they fallen in the hour of temptation!</p>
+            <p>Suppoſe a man were put to this, either he muſt ſwear canonical obedience, or he muſt be put to ſilence; either he muſt proſtitute the ſeals to all, or he muſt preach to none; Either he muſt take up the ceremonies, or lay down his Miniſtry; This would be a great temptation, which part ought a man to chuſe in this caſe?</p>
+            <p>Why, you will ſay, It is pitty but ſuch a man ſhould preach; I but it is greater pitty that he ſhould ſin; you will ſay, He may do much good in his Miniſtry would he but conform. I but he <hi>muſt not do evil that good may come on it.</hi>
+               <note place="margin">Rom. 3.8.</note> If I ſuffer for conſcience ſake, God is honoured; but if I ſin for Gods ſake, he is diſhonoured; <hi>for my lye cannot advance his glory;</hi>
+               <note place="margin">and 3.7.</note> and therefore the reſolution of the three children is a good pattern, <hi>we will not worſhip the image thou haſt ſet up.</hi>
+            </p>
+            <p>So that if when temptation brings me under a dilemma, I chuſe that part of the dilemma which is for Gods glory, though to my loſs, rather then that part which is for Gods diſhonour and my gain, then I walk wiſely in temptation.</p>
+            <p n="9">9. <hi>Wiſdom lies in a diligent endeavour to improve grace by temptation.</hi> As the <hi>Iſraelites</hi> were mul<g ref="char:EOLhyphen"/>tiplied by being oppreſſed;<note place="margin">Exod. 1.12</note> it is ſaid, <hi>The more they were afflicted, the more they grew;</hi> ſo a true <hi>Iſraelite,</hi> the more he is tempted, the more is
+<pb n="21" facs="tcp:115219:15"/>his grace encreaſed; as trees are the deeper rooted by the wind that moſt ſhakes them, ſo be<g ref="char:EOLhyphen"/>leevers are moſt ſtrengthned by the temptations that moſt try them.</p>
+            <p>Temptation is the Devils bellows which he brings to blow out the ſpark of that heavenly fire that is in us; but as the breath of the bel<g ref="char:EOLhyphen"/>lows makes the fire flame the more, ſo the blaſts of temptation make grace increaſe the more. God hath an over-ruling hand over temptation, and he turns them to good when Satan intends them for hurt, and makes grace proſper by that very means whereby Satan hopes to make it wi<g ref="char:EOLhyphen"/>ther. Thus can God out-ſhoot Satan in his own bow.</p>
+            <p>So then, if I labour to grow in grace in time of temptation, if I turn a tempting ſeaſon into a growing ſeaſon, then do I walk wiſely in tempta<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="11">10. <hi>It is wiſdom in temptation to uſe no in<g ref="char:EOLhyphen"/>direct means for riddance, but to reſt upon the pro<g ref="char:EOLhyphen"/>miſe for deliverance.</hi> There is no temptation that can befalus, but God hath made a ſuitable pro<g ref="char:EOLhyphen"/>miſe to releive us; that ſo we might not ſinful<g ref="char:EOLhyphen"/>ly deliver our ſelves, but patiently reſt on him for deliverance.</p>
+            <p>He hath promiſed <hi>to tread Satan under our feet, to bind the ſtrong man,</hi>
+               <note place="margin">Rom. 16.20.</note> 
+               <hi>not to ſuffer us to be tempted above what we are able, but to make a way for us to eſcape,</hi>
+               <note place="margin">Cor. 10.</note> 
+               <hi>that we may be able to bear it.</hi> O that Chriſtians would ſtudy the promiſe, and converſe much with the promiſe in time of
+<pb n="22" facs="tcp:115219:16"/>temptation.<note place="margin">Heb. 13.5.</note> God hath promiſed never to for ſake us, and therefore neyer let us forſake the promiſe.</p>
+            <p>There are three things very remarkable in every promiſe.</p>
+            <p>The <hi>faithfulneſs of the Father who gives it.</hi>
+               <note place="margin">Owen.</note>
+            </p>
+            <p>The <hi>grace of the Son which is the matter of it.</hi>
+            </p>
+            <p>The <hi>power of the Spirit which accompliſheth it.</hi>
+            </p>
+            <p>The faithfulneſs of the Father makes the pro<g ref="char:EOLhyphen"/>miſe good to us. The grace of the Son makes the promiſe ſweet to us. The efficacy of the Spirit make the promiſe good in us.</p>
+            <p>So that the promiſe is a ſure reſting place for a tempted ſoul.</p>
+            <p>Now then, if in temptation I uſe no indirect means for riddance, but reſt upon the promiſe for deliverance, then do I walk wiſely in temptation.</p>
+            <p n="11">11. <hi>The wiſdom of walking in temptation lieth in not yielding to temptation.</hi> Temptation from Satan is our ſuffering, but it is from our ſelves if it becomes our ſin: The Devil may flatter us, but he cannot force us; He may provoke, but without our conſent he cannot prevail: He may tempt us unto ſin, but he cannot tempt us into ſin: He could never come into the houſe if we did not open the door:<note place="margin">Iam 1.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Every man is tempted;</hi> when? when he is aſſaulted? no, but <hi>when he is drawn away of his own luſt and onticed.</hi> The true procreating cauſe of ſin is in every mans ſoul; Satan is the Father of temptation, but the heart is the Mother of ſin. Suggeſtion without could do nothing, were it not for corruption within; it is not <hi>calliditas diaboli decipientis,</hi>
+               <note place="margin">Aug. de <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ec.orig l <hi>2</hi> ap <hi>37.</hi>
+               </note> but <hi>voluntas ho<g ref="char:EOLhyphen"/>minis
+<pb n="23" facs="tcp:115219:16"/>conſentientis;</hi> outward craſt could do no<g ref="char:EOLhyphen"/>thing without inward luſt; Satan woes our wills, but we will our own woes.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the fire is in our wood, though it be the Devils flame; we may do the Devil wrong (as bad as he is) to lay all our ſins at his door, as though we were inno<g ref="char:EOLhyphen"/>cent; For though the Baſtard be gotten by him, it is conceived and brought forth by us.</p>
+            <p>This is an old trick, as old as <hi>Adam:</hi> when God asketh him,<note place="margin">Go<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3.11, 12.</note> 
+               <hi>Haſt thou eaten of the tree I forbad thee?</hi> mark how he ſhifteth it off; <hi>The woman which thou gaveſt to be with me, ſhe gave me of the fruit of the tree and I did eat.</hi> And when God comes to the woman and asketh, <hi>What is this that thou haſt done?</hi> ſaith ſhe, <hi>the Serpent beguiled me, and I did eat. Adam</hi> ſhifteth the fault from himſelf to the woman, and ſhe from her ſelf to the Ser<g ref="char:EOLhyphen"/>pent.</p>
+            <p>But had not they been willing, what could the Serpent have done? if we are tempted, it is Sa<g ref="char:EOLhyphen"/>tans fault; but if we yeild, it is our guilt.</p>
+            <p>
+               <hi>Sceva</hi> at the ſiege of <hi>Dyrrachium</hi> ſo long alone reſiſted <hi>Pompeys</hi> Army, that he had two hundred and twenty darts ſticking in his ſhield, and loſt one of his eyes, and yet gave not over till <hi>Caeſar</hi> came in to his reſcue.<note place="margin">Deut. 22.23, to 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Under the Law if a man met a Damſel and lay with her, if ſhe conſented ſhe dyed, but if ſhe cryed out ſhe was innocent and acquitted. So if when Satan aſſaults us, he obtaines conſent from us, we die; <hi>for fin when it is finiſhed, brings forth death;</hi>
+               <note place="margin">Iam. 1.15.</note> But if we conſent
+<pb n="24" facs="tcp:115219:17"/>not, but cry out to Chriſt for help againſt temp<g ref="char:EOLhyphen"/>tation, we ſhall be delivered.</p>
+            <p>So that, if I ſtand out and yeild not when temptation comes, if I conſent not to the ſin the temptation leads to, if though Satan perſwades, yet he prevailes not, then I walk wiſely in temp<g ref="char:EOLhyphen"/>tation.</p>
+            <p n="12">12. <hi>The wiſdom of walking in temptation lyeth in praying much, when we are tempted much;</hi> this is the Lord Chriſts own counſell, <hi>Watch and pray,</hi>
+               <note place="margin">Mat. 16.41.</note> 
+               <hi>that ye enter not into temptation.</hi>
+            </p>
+            <p>Prayer is faiths recourſe to the fountain of ſtrength, to fetch help and ſuccour againſt the Tempter; in praying much, when we are temp<g ref="char:EOLhyphen"/>ted much, we counter work Satan in his deſign; for one of his great deſigns in temptation, is, to ſtop the ſtream of prayer.</p>
+            <p>Chriſt ſhould be moſt ſought when we are moſt aſſaulted. <hi>Paul</hi> had a ſtrong temptation, and he made ſtrong ſupplication; The <hi>thorn in his fleſh</hi> cauſed the groans of his Spirit: <hi>The Meſſenger of Satan comming to buffet him,</hi> made him ſend many a Meſſage to Chriſt to come and ſupport him. <hi>For this I beſought the Lord thrice,</hi>
+               <note place="margin">2 Cor. 12.7, 8.</note> (that is often) <hi>that it might depart from me.</hi> When Satan doth his worſt in tempting, a Chriſtian ſhould do his beſt in praying.</p>
+            <p>There are four things eſpecially which ſhould be the matter of our Prayer in Temptation.</p>
+            <p>Pray that our grace may be above our tryal.</p>
+            <p>Pray that Temptation may be firſt Sanctified to us, then removed from us.</p>
+            <pb n="25" facs="tcp:115219:17"/>
+            <p>Pray that though we ſuffer by temptation, yet we may not ſin in temptation, <hi>deliver us from evil.</hi>
+            </p>
+            <p>Pray that Chriſt would not be ſo far from us, when Satan is ſo neer to us; that when we are under the greatneſs of Satans malice, we may be under the experience of Chriſts promiſe; who hath ſaid, <hi>my grace is ſufficient for thee.</hi>
+               <note place="margin">2 Cor 12.</note>
+            </p>
+            <p>Faiths diligence for preparation, in the hour of the ſouls temptation, lies much in ſupplication; Satan may tempt us, but if he find a praying frame of heart, he cannot hurt us.</p>
+            <p>I have heard of a malicious woman who gave her ſelf to the Devil, provided that he would do a miſcheif to ſuch a Neighbour whom ſhe mortally hated; the Devil went once and again to do his errand, but at laſt returns and tells her he could do no hurt to that man; for when ever he came, he found him either reading the Scriptures or praying. There is no voice God loves better, or that Satan likes worſe then the voice of prayer. One of the fathers calls it <hi>Diaboli Flagellum,</hi> the Devils whip to torment him; The Apoſtle when he would teach us to ſtand againſt Satan, bids us, <hi>pray always.</hi>
+               <note place="margin">Eph. 6.18.</note> He that prayeth much is ſeldome taken in ſin, but he is never taken with ſin; he ſeldome acts it, but he never likes it.</p>
+            <p>Now then if temptation doth not make me lay aſide duty, if I turn times of temptation, into times of ſupplication, if when I am in greateſt danger I run to Chriſt for help and ſuccour, then do I walk wiſely in temptation.</p>
+            <p n="13">13. <hi>It is wiſdom when Satan is tempting, for
+<pb n="26" facs="tcp:115219:18"/>us to be believing;</hi> all the Chriſtians ſtrength and comfort is fetched without doors, and he hath none to ſend of his errand but Faith.</p>
+            <p>In temptation thy work is to believe, and then God will do the reſt. Therefore ſaith <hi>David, At what time I am affraid,</hi>
+               <note place="margin">Pſa. 56.</note> 
+               <hi>I will truſt in thee,</hi> he tells God he will make bold to ſtep into his houſe, when taken in a ſtorm, and doth not queſtion his wel<g ref="char:EOLhyphen"/>come.</p>
+            <p>It is one means of preſervation to believe that God will preſerve us; As the duty that Satan hates moſt, is the duty of praying; ſo the grace that Satan oppoſes moſt is the grace of believing; all his temptations are levelled at the ruine of Faith.</p>
+            <p>He may tempt thee to ſins againſt the Law, to uncleanneſs, unjuſtice, &amp;c. but this is not his ultimate end, his great deſign lieth againſt thy intereſt in the Goſpel; what ever ſin he tempts thee to, his aim is not onely to draw thee to com<g ref="char:EOLhyphen"/>mit that ſin, but to ruine thy faith, and ſo rob thee of all good and benefit by Jeſus Chriſt. This was his deſign in ſifting <hi>Peter;</hi> and this the Lord Chriſt foreſaw, and therefore tells <hi>Peter, I have prayed for thee,</hi>
+               <note place="margin">Luk. 22 32</note> 
+               <hi>that thy faith fail not.</hi> And hence it is that the Apoſtle exhorteth us, <hi>Above all to take the ſhield of faith,</hi>
+               <note place="margin">Eph. 6.16.</note> 
+               <hi>wherewith we ſhall be able to quench all the fiery darts of the wicked.</hi> Every grace is of uſe in this combate, but faith is above all.<note place="margin">1 Iob. 5.4.</note> 
+               <hi>This is the victory that overcomes, even our Faith.</hi>
+            </p>
+            <p>Faith hath two hands, a receiving hand and a
+<pb n="27" facs="tcp:115219:18"/>working hand, and the receiving, hand releiueth the working hand; the receiving hand fetcheth in from Chriſt, the working hand improveth it for Chriſt; in temptation the receiving hand fetcheth in ſtrength and ſuccour, and the working hand uſeth this ſtrength whereby we conquer; could we but believe, Satan could never hurt us; for then in our greateſt conflicts the Lord Chriſt would help us.</p>
+            <p>There are eight things we ſhould exerciſe our Faith upon in temptations.</p>
+            <p n="1">1. Believe the great efficacy of the blood and Croſs of Chriſt to quench temptations.</p>
+            <p n="2">2. Believe that thou haſt intereſt in all the full<g ref="char:EOLhyphen"/>neſs and merits of Chriſt, and ſay when thou art in temptation, <hi>Chriſt is my wiſdome, right couſneſs,</hi>
+               <note place="margin">1 Cor. 1.10</note> 
+               <hi>ſanctification and redemption.</hi>
+            </p>
+            <p n="3">3. Believe that when thou art in Satans hands, Satan is then in Gods hands.</p>
+            <p n="4">4. Believe that the promiſes run with the <hi>ſweet<g ref="char:EOLhyphen"/>eſt ſtreams,</hi> when Satan raiſeth the <hi>greateſt ſtormes.</hi>
+            </p>
+            <p n="5">5. Believe what ſpiritual aſſiſtances there are at hand, to help and incourage us in the combate; the love of God, the grace of Chriſt, the power of the ſpirit, and beſides all this,<note place="margin">Pſal. 4.7. Heb. 1.14.</note> The good Angels guard us by Gods <hi>commiſſion,</hi> when the bad Angels moleſt us by Gods <hi>permiſſion.</hi>
+            </p>
+            <p n="6">6. Believe that the Lord Chriſt hath learned to have compaſſion,<note place="margin">Heb. 1.19. and 6.5.</note> by his own tryal in the day of his humiliation.</p>
+            <p n="7">7.<note place="margin">Luk. 17.32 Ioh. 17.15</note> Believe that while we are conflicting on earth
+<pb n="28" facs="tcp:115219:19"/>with the tempter; Chriſt is interceding for us in heaven with the Father.</p>
+            <p n="8">8. Believe the glorious recompences that are appointed for all ſuch as overcome when they are tempted;<note place="margin">Rev. 2.26. and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.12.</note> 
+               <hi>to him that overcomes will I give to ſit with me on my threne, as I alſo overcame and am ſet down with my Father on his throne. Rev.</hi> 3.21. <hi>Be thou faithful unto death, and I will give thee a crown of life, Rev.</hi> 2.10.</p>
+            <p>Now then if when I am tempted much, I truſt much; if I turn times of temptation into times of believing, then do I walk wiſely in temptation.</p>
+            <p>And thus I have done with this third ſeaſon of walking wiſely, and that is in time of temptation.</p>
+            <p>Now the Lord help you and me to pray for,<note place="margin">Iam. 1.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and ſeek after this ſpiritual wiſdom, that we may be fortified againſt temptation,<note place="margin">2 Tim. 3.15.</note> and ſo made <hi>wiſe to Salvation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:115219:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
